@@ -26,3 +26,4 @@ Open your browser and navigate to: http://localhost:5000
 - Ensure `uploads/` and `output/` folders have write permissions
 - File size limit: 16MB
 - Supported formats: PDF, DOC, DOCX, TXT
+- Make sure to add api key in your a new env and name the api key PERPLEXITY_API= OUR API KEY
